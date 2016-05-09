@@ -1,5 +1,5 @@
 # resume
 Different version of my resume as an undergrad at University of Waterloo.
-Practice for standard code review process using Review Board
+Practice for Amazon code review process (1 commit per branch)
 
-Updated May 5, 2016
+Updated May 9, 2016
