@@ -3,4 +3,4 @@ Different version of my resume as an undergrad at University of Waterloo.
 
 Practice for Amazon code review process (1 commit per branch)
 
-Updated June 5, 2016
+Updated Aug 8, 2017
